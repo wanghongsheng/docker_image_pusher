@@ -1,2 +1,1 @@
-centos:centos7
-openjdk:8-alpine
+calico:v3.29
