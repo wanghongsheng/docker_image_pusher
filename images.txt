@@ -1,1 +1,2 @@
-nginx:1.27-alpine
+centos:centos7
+openjdk:8-alpine
